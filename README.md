@@ -1,6 +1,6 @@
 ### Hello! I'm Malik Türk 👋
 
-<p><em>Meticulous Frontend Developer at <a href="https://www.linkedin.com/company/majid-al-futtaim/mycompany/">Majid Al Futtaim</a> 
+<p><em>Meticulous Frontend Developer at <a href="https://www.linkedin.com/company/seera-group/">Seera Group</a> 
 
 ![Maliks's github stats](https://github-readme-stats.vercel.app/api?username=ngTurk&show_icons=true&theme=radical)
 
